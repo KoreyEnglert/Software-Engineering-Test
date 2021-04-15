@@ -5,3 +5,5 @@ def calc(a, b):
     print(sub)
     mul = a * b
     print(mul)
+    div = a / b
+    print(div)

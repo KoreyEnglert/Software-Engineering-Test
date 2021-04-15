@@ -11,4 +11,7 @@ def calc(a, b):
     List = [sum, sub, mul, div]
     print(List)
 
+    lsum = List[0] + List[1] + List[2] + List[3]
+    print(lsum)
+
 calc(2, 4)

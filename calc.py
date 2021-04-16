@@ -15,3 +15,7 @@ def calc(a, b): #commit 1
     print(lsum)
 
 calc(2, 4)
+print(" ")
+calc(20, 3)
+print(" ")
+calc(9, 90)
